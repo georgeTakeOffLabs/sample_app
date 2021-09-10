@@ -1,0 +1,2 @@
+module FooControlerHelper
+end
